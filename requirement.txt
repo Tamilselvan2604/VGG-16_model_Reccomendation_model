@@ -1,0 +1,8 @@
+flask==2.0.3
+tensorflow==2.10.0
+numpy==1.23.5
+joblib==1.2.0
+faiss-cpu==1.7.4
+pillow==9.4.0
+python-dotenv==1.0.0
+gunicorn==20.1.0
